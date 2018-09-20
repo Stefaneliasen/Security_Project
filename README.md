@@ -1,7 +1,7 @@
 # Security_Project
 # By Oliver Scholz Lønning, Elias Zinabidine Laghouila, Stefan Schou Eliasen and Mathias Bartels Jensenius
 
-##Ideas for our security project
+## Ideas for our security project
 
 We do not know if any of these projects would be our final project, but we would like to hear your feedback.
 
