@@ -1,5 +1,5 @@
 # Security_Project
-### By Oliver Scholz Lønning,
+### Oliver Scholz Lønning,
 ### Elias Zinabidine Laghouila, 
 ### Stefan Schou Eliasen 
 ### Mathias Bartels Jensenius
