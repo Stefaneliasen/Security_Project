@@ -6,7 +6,7 @@
 
 ## Ideas for our security project
 
-We do not know if any of these projects would be our final project, but we would like to hear your feedback.
+We do not know if any of these ideas would be our final project, but we would like to hear your feedback.
 
 ### Ideas
 
