@@ -1,5 +1,8 @@
 # Security_Project
-# By Oliver Scholz Lønning, Elias Zinabidine Laghouila, Stefan Schou Eliasen and Mathias Bartels Jensenius
+### By Oliver Scholz Lønning,
+### Elias Zinabidine Laghouila, 
+### Stefan Schou Eliasen 
+### Mathias Bartels Jensenius
 
 ## Ideas for our security project
 
