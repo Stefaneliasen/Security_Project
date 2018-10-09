@@ -6,7 +6,9 @@
 
 ## Healthy security for a regular project
 
-Our project is supposed to show a good way to handle and execute different tasks in a standard Database <-> Backend -> * JSON REQUESTS * <-  Frontend relationship.
+Our project is supposed to show a good way to handle and execute different tasks in a standard:
+
+`Database <-> Backend -> * JSON REQUESTS * <-  Frontend` relationship.
 
 * **SQL injection preventions**
 * **Hashing of passwords**
