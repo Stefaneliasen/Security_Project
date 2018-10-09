@@ -4,18 +4,13 @@
 ### Stefan Schou Eliasen 
 ### Mathias Bartels Jensenius
 
-## Ideas for our security project
+## Healthy security for a regular project
 
-We do not know if any of these ideas would be our final project, but we would like to hear your feedback.
-
-### Ideas
+Our project is supposed to show a good way to handle and execute different tasks in a standard Database <-> Backend -> * JSON REQUESTS * <-  Frontend relationship.
 
 * **SQL injection preventions**
 * **Hashing of passwords**
 * **Crypto ciphering of user details**
-* **Captcha system for logging credentials?**
 * **Stronger security for register credentials in form of identity keys**
 * **Cookie authorization**
 * **CORS**
-* **Logging**
-* **Backup**
