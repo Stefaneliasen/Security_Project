@@ -38,3 +38,20 @@ Run:
 
 This will clone the repo and the submodule folders that is in this repo.
 
+## To stage commits
+Assume you are in one of the sub module folders(Client or Server). Run the usual:
+
+```
+git add .
+git commit -m "message"
+git push
+```
+Afterwards go out to the root(Project_Security) and run the usual:
+
+```
+git add .
+git commit -m "message"
+git push
+```
+
+This will update the shell on github aswell.
