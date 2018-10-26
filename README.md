@@ -28,7 +28,7 @@ The project also consists of two submodules:
 
 Client_Security git repo for frontend.
 
-Server_Sceutiry git repo for backend.
+Server_Security git repo for backend.
 
 ## How to clone the repo
 
