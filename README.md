@@ -55,3 +55,12 @@ git push
 ```
 
 This will update the shell on github aswell.
+
+## Client
+
+## To run the first time:
+
+```
+npm install
+npm start
+```
