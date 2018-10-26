@@ -1,6 +1,3 @@
 [submodule "Client_Security"]
 	path = Client_Security
 	url = https://github.com/HawkDon/Client_Security.git
-[submodule "Server_Security"]
-	path = Server_Security
-	url = https://github.com/HawkDon/Server_Security.git
