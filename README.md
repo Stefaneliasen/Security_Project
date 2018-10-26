@@ -18,3 +18,23 @@ We will use the current points, build on another idea of a subject for a website
 * **Stronger security for register credentials in form of identity keys**
 * **Cookie authorization**
 * **CORS**
+
+
+### Overview of the projects sturcture
+
+The project has a shell of a Security_Project folder with a readme file.
+
+The project also consists of two submodules:
+
+Client_Security git repo for frontend.
+
+Server_Sceutiry git repo for backend.
+
+## How to clone the repo
+
+Run:
+
+``` git clone --recurse-submodules https://github.com/chaconinc/MainProject ```
+
+This will clone the repo and the submodule folders that is in this repo.
+
