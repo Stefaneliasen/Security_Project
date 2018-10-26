@@ -34,7 +34,7 @@ Server_Security git repo for backend.
 
 Run:
 
-``` git clone --recurse-submodules https://github.com/chaconinc/MainProject ```
+``` git clone --recurse-submodules https://github.com/HawkDon/Security_Project.git ```
 
 This will clone the repo and the submodule folders that is in this repo.
 
