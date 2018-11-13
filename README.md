@@ -14,8 +14,6 @@ We will use the current points, build on another idea of a subject for a website
 
 * **SQL injection preventions**
 * **Hashing of passwords**
-* **Crypto ciphering of user details**
-* **Stronger security for register credentials in form of identity keys**
 * **Cookie authorization**
 * **CORS**
 
